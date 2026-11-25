@@ -10,7 +10,8 @@
 # Precompiled Headers
 *.gch
 *.pch
-
+#vscode config
+.vscode
 # Linker files
 *.ilk
 
